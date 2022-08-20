@@ -6,6 +6,7 @@ import { Search } from "./Search";
 import React from 'react';
 
 const StyledGrid = styled(Grid)`
+    margin-bottom: 2rem;
 `
 
 export function PacketDetails({ data, type, setData }: { data: any, type: Types, setData: Function }) {

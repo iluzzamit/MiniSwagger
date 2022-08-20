@@ -91,7 +91,7 @@ const StyledSection = styled(Grid)`
         box-shadow: rgba(0, 0, 0, 0.25) 0px 1px 5px;
         background: white;
         padding: 1rem 0;
-        margin: 0 1rem;
+        margin: 0.4rem 1rem;
         width: 100%;
 
         display: flex;
